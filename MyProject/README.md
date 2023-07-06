@@ -1,0 +1,3 @@
+# app note
+this app is called Toolbox, which integrates useful phone features such as accessing ChatGPT in phone and QR code scanner.
+still under developing, looking forward to more features...
